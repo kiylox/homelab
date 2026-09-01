@@ -36,4 +36,14 @@ Physical Server
 - File Sharing
 - Backups
 - Remote access
-- Self - hosted applications
+- Self hosted applications
+
+## Learning Goals
+- Proxmox VE
+
+
+## Project Status
+- [x] Choose hardware
+
+## Documentation
+Soon...
