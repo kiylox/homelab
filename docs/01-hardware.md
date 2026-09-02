@@ -16,3 +16,7 @@ Leftover hardware I had laying around the house.
 ### Planned Upgrades
 
 None as of now.
+
+### Current Limitations
+Ram may limit the amount of VMs ran simultaneously.
+Storage
